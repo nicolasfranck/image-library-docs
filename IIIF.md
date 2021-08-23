@@ -108,7 +108,7 @@ GET IIIF v2 Collection of set
 GET https://adore.ugent.be/IIIF/sets/$SET
 ```
 
-e.g. https://adore.ugent.be/IIIF/sets/eu\_topo
+e.g. https://adore.ugent.be/IIIF/sets/eu_topo
 
 Path parameters:
 
